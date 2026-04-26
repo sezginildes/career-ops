@@ -1,36 +1,39 @@
-# Zamanlama ve Yayın Takvimi
+# Zamanlama ve Yayın Takvimi — Sezgin İldes
 
-## Haftalık Sıklık
+## Haftalık Sıklık (Sürdürülebilir Başlangıç)
 | Platform | Post/Hafta | En İyi Günler |
 |----------|-----------|----------------|
-| X | 5-7 | Her gün |
-| LinkedIn | 3-5 | Pzt-Per |
-| Instagram | 4-5 | Pzt, Çar, Cum, Cmt |
-| Bülten | 1 | Sal veya Per sabahı |
+| LinkedIn | 2-3 | Salı, Çarşamba, Perşembe |
+| X | 3-5 | Pazartesi-Cuma |
+| Instagram | 1-2 | Çarşamba, Cumartesi |
+| Newsletter | 1 | Salı veya Perşembe sabahı |
 
-## En Yüksek Yayın Zamanları
+## En Yüksek Yayın Saatleri
 | Platform | En İyi Saatler |
 |----------|---------------|
-| X | 08:00-09:00, 12:00-13:00, 17:00-18:00 |
-| LinkedIn | 07:00-08:00, 12:00, 17:00-18:00 |
-| Instagram | 11:00-13:00, 19:00-21:00 |
-| Bülten | 08:00-10:00 |
+| LinkedIn | 07:30-09:00, 12:00-13:00, 17:30-19:00 |
+| X | 08:00-09:30, 12:00-13:00, 17:00-18:30 |
+| Instagram | 12:00-14:00, 19:00-21:00 |
+| Newsletter | 08:00-09:30 |
 
-## Toplu İş Akışı
+## Haftalık Toplu İş Akışı (Önerilen)
 
-### Haftalık Toplu İş (Pazar veya Pazartesi):
-1. Hafta için 2-3 konu seç
-2. Her biri için tam [[repurpose]] zincirini çalıştır
-3. Bu sana tek oturumda haftanın tüm içeriğini verir (8-12 post)
-4. Her şeyi planla (Buffer, Later veya yerel zamanleyiciler)
+### Pazar veya Pazartesi (60-90 dk):
+1. Hafta için 1-2 konu seç
+2. Her konu için tam [[repurpose]] zincirini çalıştır
+3. Bu sana haftanın tüm içeriğini tek oturumda verir
+4. Her şeyi planla (Buffer, Publer veya yerel zamanleyiciler)
 
-### Günlük (15 dk):
+### Günlük (10-15 dk):
 1. Katılımı kontrol et
-2. İlk saatte yorumlara cevap ver
-3. Hangi hook/formatların performans gösterdiğini not et
+2. İlk 60 dakikada yorumlara cevap ver (algoritma için kritik)
+3. Hangi hook/format daha iyi performans gösterdi not et
 
-### Haftalık Gözden Geçirme (Cuma):
-1. Hangi konular en iyi performansı gösterdi? → daha fazlası
-2. Hangi hook türleri katılımı artırdı? → [[hooks]] güncelle
-3. Hangi platform en hızlı büyüyor? → ikiye katla
-4. Yorum/DM'lerden yeni içerik fikirleri?
+### Haftalık Gözden Geçirme (Cuma, 15 dk):
+1. Hangi konular en fazla etkileşim aldı? → daha fazlası
+2. Hangi hook türleri çalıştı? → [[hooks]] güncelle
+3. Yorumlardan yeni içerik fikirleri var mı?
+
+## Not
+Haftada 2-3 post sürdürülebilir başlangıç. Ritim otururken kaliteye odaklan.
+3 ay sonra sıklığı artırmayı değerlendir.

@@ -1,50 +1,52 @@
-# Hook Formülleri
+# Hook Formülleri — Sezgin İldes
 
 Her postu açmak için bunları kullan. Hook türünü platforma ve konuya göre eşleştir.
 Sunum ayarlamaları için [[platform-tone]] bak.
 
 ## Oyun Kitabı Hook'u
-"İşte [N] adımda [istenen sonuç]:"
-- En iyi platform: X, LinkedIn, YouTube başlıkları
+"İşte [N] adımda/maddede [istenen sonuç]:"
+- En iyi platform: LinkedIn, Instagram slayt 1
 - Örnekler:
-  - "İşte 5 adımda verimli ders çalışma sistemi:"
-  - "İşte öğrencilerin not ortalamasını yükseltmesinin 7 yolu:"
+  - "İşte yeni bir ekibe liderlik etmenin ilk 90 günü için 5 madde:"
+  - "Kariyer geçişini kolaylaştıran 7 şey — hiç kimse bunları söylemez:"
 
 ## Kanıt Hook'u
 "[Önceki durum] → [sonraki durum] [zaman diliminde]"
-- En iyi platform: X, LinkedIn
+- En iyi platform: LinkedIn, X
 - Örnekler:
-  - "3.0 GPA → 3.8 GPA, 1 dönemde, tek bir sistem değişikliğiyle"
-  - "Günde 6 saatlik çalışma → 3 saatlik çalışma, %20 daha yüksek notlarla"
+  - "6 kişilik ekip, 6 ayda %40 daha az toplantıyla 2 kat daha fazla iş çıkardı."
+  - "Ortalama performanslı ekipten yüksek performanslıya geçiş: 3 değişiklik, 4 ay."
 
 ## Karşıt Hook
-"[Geleneksel şeye] ihtiyacın yok. [Bunun yerine buna] ihtiyacın var."
-- En iyi platform: X, Threads
+"[Herkesin inandığı şey] yanlış. [Gerçekte olan şey bu.]"
+- En iyi platform: X, LinkedIn
 - Örnekler:
-  - "Daha fazla çalışmana gerek yok. Daha akıllı çalışman gerekiyor."
-  - "10 farklı not alma uygulamasına ihtiyacın yok. 1 sisteme ihtiyacın var."
+  - "İyi lider her soruya cevap vermez. İyi lider doğru soruyu sorar."
+  - "Motivasyon konuşmaları ekip performansını artırmaz. Sistem değişikliği artırır."
 
 ## Değiştirme Hook'u
-"[Pahalı/karmaşık şeyi] [basit şeyle] değiştirdim"
-- En iyi platform: X, Instagram slayt 1
+"[Pahalı/zor şeyi] [basit şeyle] değiştirdim"
+- En iyi platform: LinkedIn, Instagram slayt 1
 - Örnekler:
-  - "Sınav panikini 3 markdown dosyasıyla değiştirdim"
-  - "$200'lık özel ders ücretini 1 ücretsiz sistemle değiştirdim"
+  - "Haftalık 3 saatlik toplantıyı 15 dakikalık asenkron check-in'le değiştirdim."
+  - "Yıllık performans görüşmesini aylık 20 dakikalık konuşmayla değiştirdim."
 
-## Keşif Hook'u
-"az önce [değerli şey] buldum"
-- En iyi platform: X
+## Keşif / İç Görü Hook'u
+"Yanlış anladığımı [ne zaman/nasıl] fark ettim:"
+- En iyi platform: LinkedIn, Newsletter
 - Örnekler:
-  - "az önce her öğrencinin yapması gereken bir teknik buldum"
+  - "3. ekibimi kurduğumda liderlik hakkında yanlış anladığımı fark ettim:"
+  - "Kariyer geçişimi yaşayınca şunu öğrendim — kimse önceden söylemiyor:"
 
 ## Perde Arkası Hook'u
-"Ben [etkileyici şey] yapıyorum ve [şaşırtıcı yöntem]"
-- En iyi platform: X, LinkedIn, YouTube başlıkları
+"[Etkileyici sonuç] için [beklenmedik yöntem] kullandım"
+- En iyi platform: LinkedIn, Instagram
 - Örnekler:
-  - "10 farklı konuyu takip ediyorum ve tek bir sayfa kullanıyorum"
+  - "En iyi işe alım kararlarımı CV okumadan verdim."
+  - "Ekibimin en üretken haftası ofiste en az zaman geçirdiğimiz haftaydı."
 
 ## Kurallar
-- Konu başına yayınlamadan önce 2-3 hook test et
+- Konu başına yayınlamadan önce 2-3 hook dene, en iyisini seç
 - Her PLATFORM için hangi türlerin en fazla katılım aldığını takip et
-- Haftalık güncelle. düşük performanslıları kaldır, yeni kazananlar ekle
-- [[x]] için hook neredeyse hiçbir zaman [[linkedin]] için hook ile aynı değil
+- LinkedIn'de kanıt ve keşif hook'ları güçlü; X'te karşıt hook'lar daha iyi çalışır
+- Haftalık gözden geçir: düşük performanslıları kaldır, yeni kazananlar ekle

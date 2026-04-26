@@ -1,34 +1,32 @@
-# Platform Ton Adaptasyonları
+# Platform Ton Adaptasyonları — Sezgin İldes
 
 Temel ses [[brand-voice]]'da tanımlandı. Bu dosya o sesin platform başına nasıl ADAPTE EDİLDİĞİNİ tanımlar.
 
-## X / Twitter
-- Sesin en rahat versiyonu
-- Her şey küçük harf
-- Kısa cümleler. vurucu. dolgu yok
-- "ya", "açıkçası", "iyi ki" doğal kullanım
-- Sarkasm ve ironi hoş karşılanır
-- Örnek: "ödev takip uygulamalarına ihtiyacın yok. 3 markdown dosyasına ihtiyacın var. bunu çalış."
-
 ## LinkedIn
-- Profesyonel ama hâlâ insan. kurumsal değil
-- Ders/içgörü olarak çerçevelenmiş ama çok "ben" kullanılıyor
-- Daha uzun cümleler ok. daha fazla anlatı yapısı
-- Kişisel gözlemlerle daha düşünceli
-- Örnek: "10 öğrenciye aynı materyali anlattım ve hepsinin farklı sorunu olduğunu fark ettim. İşte öğrendiklerim."
+- En güçlü platform. Sezgin'in ana sahası.
+- Kişisel hikaye + iş dersi formatı. "Ben" ile başla, okuyucuya "sen" ile bitir.
+- Profesyonel ama insan — robot gibi değil, mentorun gibi.
+- Uzun cümleler ok, ama her paragraf tek fikirli olsun.
+- Örnek: "3 yıl önce ilk ekibimi kurduğumda en büyük hatam şuydu: herkesi aynı şekilde yönetmeye çalışmak. İşte o dönemden öğrendiklerim."
+
+## X / Twitter
+- Sesin en sıkıştırılmış, en keskin versiyonu.
+- Küçük harf, punch line, dolgu yok.
+- Bir fikir, bir cümle, bir etki.
+- Örnek: "iyi lider 'nasıl yapıyorsun?' diye sorar. kötü lider 'neden yapmadın?' diye."
 
 ## Instagram
-- En basit dil. görsel öncelikli, metin görselleri destekler
-- Carousel metni: kalın, kısa, slayt başına bir fikir. slayt 1'de maks 8 kelime
-- Açıklama: daha ayrıntılı ama hâlâ taranabilir
-- İlham verici enerji, "sen de yapabilirsin"
-- Örnek: "Sınav haftasında 8 saat uyudum ve %90 aldım. Kaydır: tam sistem."
+- Görsel öncelikli, metin görseli destekler.
+- Carousel: slayt 1'de tek bir cesur iddia, geri kalanında breakdown.
+- Dil en basit hali — scroll'larken anlaşılmalı.
+- İlham + pratik karışımı, "ben de yapabilirim" hissi.
+- Örnek slayt 1: "Ekibini kaybetmeden önce bunları görmüş olman gerekirdi."
 
-## Bülten (Newsletter)
-- En kişisel ve samimi
-- Akıllı bir arkadaşa mektup yazmak gibi
-- Savunmasız, düşünceli, perde arkası olabilir
-- Herhangi bir düşüncenin en uzun formu
+## Newsletter
+- En kişisel ve derinlemesine.
+- Sanki Sezgin doğrudan okuyucuya yazıyor gibi.
+- Perde arkası: ne düşündü, ne denedi, ne işe yaramadı.
+- Uzun form — okuyucu zaman ayırıyor, derine gidebiliriz.
 
 ## Kural
 

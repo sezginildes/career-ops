@@ -1,46 +1,43 @@
-# Marka Sesi (Brand Voice)
+# Marka Sesi — Sezgin İldes
 
 Bu dosya tüm platformlardaki içeriğin arkasındaki temel kişiliği tanımlar.
-Her platform node'u ([[x]], [[linkedin]], [[instagram]], vb.) buna başvurur ve kendi bağlamına adapte eder.
+Her platform node'u ([[linkedin]], [[x]], [[instagram]], [[newsletter]]) buna başvurur ve kendi bağlamına adapte eder.
 Platform başına ayarlamalar için [[platform-tone]] bak.
 
 ## Temel Kişilik
 
-[3-5 cümleyle marka kişiliğini tanımla. Spesifik ol. Örnek:]
-
-Birlikte öğrenen bir öğretmeniz. rahat otorite — işimizi biliyoruz ama kimseye yukarıdan bakmıyoruz. gerçek rakamları, gerçek hataları, gerçek sistemleri paylaşıyoruz. kitlemizle yan yana inşa eden arkadaşlar gibi konuşuyoruz. doğrudan, pratik, saçmalığa alerjik.
+Deneyiminden öğrenmiş, öğrendiklerini paylaşan bir lider. Vaaz vermiyor, yol arkadaşlığı yapıyor. Kitlesini küçümsemiyor — onların sorunlarını bizzat yaşamış biri olarak konuşuyor. Kurumsal jargon değil, gerçek dil. Hem yöneticilere hem kariyer geçişindeki profesyonellere aynı anda hitap edebiliyor çünkü her iki tarafın perspektifini anlıyor.
 
 ## Ton İşaretleri
 
-- Rahat ama güvenilir — "ya", "iyi ki", "açıkçası" doğal kullanılıyor ama her şey gerçek veri ve deneyimle destekleniyor
-- Doğrudan ve kişisel — çok "ben" kullanıyoruz, okuyucuya "sen" diye hitap ediyoruz, ders vermiyor, koçluk yapıyoruz
-- Cilaya karşı ham dürüstlük — "en büyük hata doğrulama atlamak" şeklinde değil, "insanlar hep şunu yapar ve hep yanılırlar"
-- Koçluk enerjisi — her parça adım adım bir şeyden geçiyor gibi hissettirmeli
-- Rakamlar ve kanıt — mümkün olduğunda spesifik metrikler dahil et. "%40 daha yüksek not", "3 haftada", "10 öğrenci". spesifik = güven
+- Pratik otorite — "teoride böyle olmalı" değil, "ben şöyle yaptım ve işe yaradı"
+- Dürüst ve savunmasız — liderlikte ne zaman yanıldığını da söyler, sadece başarıları değil
+- Doğrudan — kenar süsü yok, söylenecek şey söylenir
+- Kapsayıcı — hem deneyimli yöneticiye hem işe yeni giren birine aynı anda konuşabilir
+- Motivasyon değil, eylem — "yapabilirsin" değil, "işte nasıl yapacaksın"
 
 ## Kelime Dağarcığı
 
-Kullandığımız kelimeler: sistem, yöntem, adım, teknik, strateji, pratik, uygulanabilir, kanıt, sonuç, dönüşüm
+Kullandığımız kelimeler: ekip, liderlik, dönüşüm, geçiş, sistem, pratik, gerçek, deneyim, kariyer, yönetim, çerçeve, adım, strateji
 
-ASLA kullanmadığımız kelimeler: sinerjik, holistik, paradigma, proaktif, evrensel gerçek, herkes bilir ki
+ASLA kullanmadığımız kelimeler: sinerjik, holistik, paradigma, disruptif, game-changer, thought leader, ekosistem, proaktif
 
 Kullandığımız ifadeler:
 - "işte gerçekten işe yarayan şey"
-- "çoğu kişi bunu yanlış anlıyor"
-- "asıl sebep şu..."
-- "bunu çalış."
-- "umarım işine yarar."
+- "çoğu lider bunu atlıyor"
+- "bunu yanlış anlıyoruz"
+- "deneyimlerime göre..."
+- "pratik tutuyorum"
 
 Asla kullanmadığımız ifadeler:
-- "Günümüzün hızla değişen dünyasında..."
-- "Söylemeye gerek yok ki..."
-- "Lafı dolandırmadan..."
-- herhangi bir kurumsal jargon
+- "Günümüzün hızla değişen iş dünyasında..."
+- "Liderlik bir yolculuktur..."
+- "Başarının anahtarı..."
+- kurumsal kelime salatası
 
 ## Biçimlendirme Kuralları
-- Gövde metin için varsayılan küçük harf
-- Hook'lar/başlıklar için yalnızca Başlık Harfi veya BÜYÜK HARF
-- - ön ekiyle madde işaretleri
-- Her düşünce arasında satır sonu, asla yoğun paragraflar
-- Hashtag yok (gerçekten işe yaradığı Instagram hariç)
-- Minimal emoji, yalnızca imza olarak
+- LinkedIn'de Başlık Harfi, X'te küçük harf tercih
+- Hook'lar ve başlıklar için güçlü, net cümleler
+- Her düşünce arasında satır sonu, asla yoğun paragraf blokları
+- Minimal emoji — sadece imza veya vurgu için, israf etme
+- Rakamlar ve spesifik detaylar her zaman daha iyi: "3 yıl", "%40 daha az toplantı", "5 kişilik ekip"
