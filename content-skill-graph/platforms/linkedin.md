@@ -2,24 +2,86 @@
 
 ## Platform DNA
 - Karakter sınırı yok ama tatlı nokta 1.300-2.000 karakter
-- Vibe: profesyonel ama insan. kişisel anlatılar kazanır. iş dersleri eklenmiş "Ben" hikayeleri
+- Vibe: profesyonel ama insan. kişisel anlatılar kazanır.
 - Kitle: ağırlıklı [[leaders]] — yöneticiler, İK ekipleri, C-level. [[changers]] da burada aktif
 
-## İçerik Kuralları
-- Kişisel hook ile başla. "3 yıl önce..." / "İlk ekibimi kurduğumda..." / "Yanılıyordum..."
-- İlk satır HER ŞEYDİR. LinkedIn ~210 karakterden sonra kesiyor. hook ilk satırda değilse kimse tıklamaz
-- [[hooks]] kullan — kanıt hook'ları ve keşif hook'ları en iyi performansı gösterir
-- [[brand-voice]] eşleştir ama profesyonel. [[platform-tone]] bak
-- Paragraf başına bir fikir. beyaz alan arkadaşın
-- Gövdede hashtag yok. kullanıyorsan en sonda maksimum 3
-- Linkler ilk yorumda, asla post gövdesinde değil
+---
 
-## İşe Yarayan Formatlar
-1. Kişisel Anlatı — "Ben [bir şey yaptım/öğrendim/başarısız oldum]" → ders → okuyucuya uygulanabilir sonuç
-2. Karşıt Görüş — geleneksel liderlik/kariyer bilgeliğini zorla
-3. Liste Postu — "X liderliğimde öğrendim:" numaralı maddelerle
-4. Vaka Çalışması — gerçek ekip/kariyer senaryosu, gerçek sonuçlar
-5. Soru Postu — kitlenin deneyimini soran, tartışma başlatan format
+## LEAD Framework — Her Post İçin
+
+**Her LinkedIn postunu bu 4 adımla yaz.**
+
+### L — Lead With a Story
+İlk 3 satırı gerçek ve spesifik bir şeyle aç.
+Bir sonuç, bir an, fark ettiğin bir şey. Olan bir şey.
+Hook okuyucuyu "sonra ne oldu?" hissine sokmalı.
+
+### E — Extract the Lesson
+4. satır dersin verildiği yerdir.
+Hikayenin öğrettiği tek en önemli şeyi yaz.
+Tek satır. Net ve doğrudan. Bir ders, birden fazla değil.
+
+### A — Add Actionable Steps
+Okuyucunun hemen uygulayabileceği pratik bir framework veya numaralı liste ekle.
+3-5 adım tatlı nokta. Her adım bugün uygulanabilecek kadar spesifik olmalı.
+Kayıtlar buradan gelir.
+
+### D — Drive the Conversation
+Bir sonraki hamleyi okuyucunun eline bırakan doğrudan bir soruyla bitir.
+Post konusuna bağlı olmalı.
+En iyi kapanış soruları okuyucunun kendi durumunu düşünmesini sağlar — yorumları bu üretir.
+
+**Kural: Her zaman dersi hikayeden önce yaz. Hikaye araçtır. Ders hedeftir.**
+
+---
+
+## Yazı Kuralları (Yayınlamadan Önce Uygula)
+
+**1. Hook'u Son Yaz**
+Önce gövdeyi yaz, dersin ne olduğunu öğren. Sonra hook'a dön ve buna göre yaz.
+
+**2. Post Başına Bir Fikir**
+Yüksek performanslı her postun merkezinde tek net bir fikir var.
+Post oradan sapıyorsa, sapmayı kes.
+Başlamadan önce core fikri tek cümleyle yaz.
+
+**3. Kısa Satır, Kısa Paragraf**
+Mobilde paragraf başına maksimum 2 satır.
+Beyaz alan postları okunabilir yapar.
+Düşündüğünden daha fazla Enter'a bas.
+
+**4. Kanıt Görüşün Önüne Geçer**
+Spesifik sonuçlar genel tavsiyeyi her zaman geçer.
+Her iddiayı bir rakam veya gerçek örnekle değiştir.
+"Liderlik gelişti" → "3 ayda ekip memnuniyeti %40 arttı"
+
+**5. Değer Katmayan Kelimeleri Çıkar**
+Kısa ama yoğun postlar uzun ama dolgulu postları geçer.
+Her satırı oku ve sor: "Bunu çıkarsam anlam değişir mi?" Değişmiyorsa çıkar.
+
+**6. Feed'e Göre Formatla**
+Bold, italik ve gereksiz emoji kullanma.
+Yayınlamadan önce telefonda aç. Kalabalık veya sıkışık görünüyorsa böl.
+
+---
+
+## Yayınlamadan Önce Checklist
+
+10/10 → Yayınlamaya hazır
+10'dan az → Geri dön ve düzelt
+
+- [ ] Hook 5 kanıtlanmış hook türünden birini kullanıyor
+- [ ] İlk 3 satır beni tanımadan görsem kaydırmayı durdururdu
+- [ ] Tek net bir ders var, birden fazla şey öğretmeye çalışmıyorum
+- [ ] Adımlar bugün uygulanacak kadar spesifik
+- [ ] Kapanış sorusu post konusuna bağlı
+- [ ] Hook'ta hiçbir satır 62 karakteri geçmiyor
+- [ ] Dersi hikayeden önce yazdım
+- [ ] Mobilde her paragraf 2 satır veya altında
+- [ ] En az bir spesifik kanıt noktası, sonuç veya gerçek örnek var
+- [ ] Yerini hak etmeyen her kelimeyi sildim
+
+---
 
 ## Yayın Stratejisi
 - Sıklık: haftada 2-3
@@ -28,10 +90,7 @@
 - Yayınladıktan sonra ilk 60 dk'da yorumlara cevap ver
 - Tam takvim için [[scheduling]] bak
 
-## LinkedIn'deki Kitle
-- Ağırlıklı [[leaders]], ikincil [[changers]]
-- İstedikleri: uygulanabilir liderlik içgörüleri, gerçek senaryolar, kariyer dersler
-- İstemedikleri: soyut motivasyon, teorik framework'ler, "CEO olmanın 10 sırrı" klişeleri
+---
 
 ## Yeniden Kullanım Notları
 - LinkedIn, [[repurpose]] zincirinin BAŞLANGIÇ NOKTASIDIR
