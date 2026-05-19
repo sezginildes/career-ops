@@ -304,6 +304,21 @@ Default modes are in `modes/` (English). Additional language-specific modes are 
 - **Support**: help questions go to Discord/Discussions, not issues (see `SUPPORT.md`)
 - **Discord**: https://discord.gg/8pRpHETxa4
 
+## Caveman Mode
+
+Trigger: User says `/caveman` or "caveman mode" → invoke the `caveman` skill.
+Deactivate: User says `/normal` or "normal mode".
+
+When active, compress ALL responses:
+- Drop articles, filler phrases, transition words, restating user's question
+- Fragments over full sentences; `→` instead of "this means"
+- Max 1-2 sentences per concept
+- Code blocks stay complete and unchanged
+- Technical terms, variable names, proper nouns: exact
+- Reasoning depth unchanged (brain same size, mouth smaller)
+
+Intensity levels: `lite` (drop filler only) | `full` (fragments, default) | `ultra` (maximum compression)
+
 ## Stack and Conventions
 
 - Node.js (mjs modules), Playwright (PDF + scraping), YAML (config), HTML/CSS (template), Markdown (data), Canva MCP (optional visual CV)
